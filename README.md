@@ -1,3 +1,3 @@
-CloudExpo 2018 NYC
-Louis Frolio
-Machine Learning at the IoT Edge
+CloudExpo 2018 NYC <br>
+Louis Frolio <br>
+Machine Learning at the IoT Edge <br>
